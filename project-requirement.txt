@@ -1,0 +1,6 @@
+1. User can take input as many times as they want
+2. The application will terminate when user enter 0
+3. Users can see a list of menu item and select from it
+4. Users can store int numbers inside a list
+5. Users can ferform CRUD operations on the list
+6. Users can able to clear the list
